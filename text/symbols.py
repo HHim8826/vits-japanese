@@ -1,2 +1,2 @@
-symbols = list(' !"&*,-.?ABCINU[]abcdefghijklmnoprstuwyz{}~')
+symbols = list(' !"&*,-.?ABCINU[]abcdefghijklmnoprstuwyz{}~()')
 SPACE_ID = symbols.index(" ")
