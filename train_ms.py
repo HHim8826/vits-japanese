@@ -3,6 +3,7 @@ import json
 import argparse
 import itertools
 import math
+from pickle import TRUE
 import torch
 from torch import nn, optim
 from torch.nn import functional as F
@@ -136,6 +137,7 @@ def train_and_evaluate(rank, epoch, hps, nets, optims, schedulers, scaler, loade
   net_g.train()
   net_d.train()
   for batch_idx, (x, x_lengths, spec, spec_lengths, y, y_lengths, speakers) in enumerate(train_loader):
+    step_save = False
     x, x_lengths = x.cuda(rank, non_blocking=True), x_lengths.cuda(rank, non_blocking=True)
     spec, spec_lengths = spec.cuda(rank, non_blocking=True), spec_lengths.cuda(rank, non_blocking=True)
     y, y_lengths = y.cuda(rank, non_blocking=True), y_lengths.cuda(rank, non_blocking=True)
@@ -226,9 +228,11 @@ def train_and_evaluate(rank, epoch, hps, nets, optims, schedulers, scaler, loade
         evaluate(hps, net_g, eval_loader, writer_eval)
         utils.save_checkpoint(net_g, optim_g, hps.train.learning_rate, epoch, os.path.join(hps.model_dir, "G_{}.pth".format(global_step)))
         utils.save_checkpoint(net_d, optim_d, hps.train.learning_rate, epoch, os.path.join(hps.model_dir, "D_{}.pth".format(global_step)))
-      elif global_step % hps.train.colab_save_interval == 0:
-        utils.save_checkpoint(net_g, optim_g, hps.train.learning_rate, epoch, os.path.join(hps.model_dir, "G_{}.pth".format(global_step)))
-        utils.save_checkpoint(net_d, optim_d, hps.train.learning_rate, epoch, os.path.join(hps.model_dir, "D_{}.pth".format(global_step)))
+        step_save = True
+      if global_step % hps.train.colab_save_interval == 0:
+        if step_save == False:
+          utils.save_checkpoint(net_g, optim_g, hps.train.learning_rate, epoch, os.path.join(hps.model_dir, "G_{}.pth".format(global_step)))
+          utils.save_checkpoint(net_d, optim_d, hps.train.learning_rate, epoch, os.path.join(hps.model_dir, "D_{}.pth".format(global_step)))
         try:
           os.mkdir(f'/content/gdrive/MyDrive/model/{hps.model_dir.split("/")[-1]}/')
           os.system(f'cp {hps.model_dir}/G_{global_step}.pth /content/gdrive/MyDrive/model/{hps.model_dir.split("/")[-1]}/')
@@ -236,6 +240,7 @@ def train_and_evaluate(rank, epoch, hps, nets, optims, schedulers, scaler, loade
         except:
           os.system(f'cp {hps.model_dir}/G_{global_step}.pth /content/gdrive/MyDrive/model/{hps.model_dir.split("/")[-1]}/')
           os.system(f'cp {hps.model_dir}/D_{global_step}.pth /content/gdrive/MyDrive/model/{hps.model_dir.split("/")[-1]}/')
+        step_save = True
     global_step += 1
   
   if rank == 0:
