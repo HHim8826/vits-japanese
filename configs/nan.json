@@ -2,6 +2,7 @@
   "train": {
     "log_interval": 50,
     "eval_interval": 500,
+    "colab_save_interval":5000,
     "seed": 1234,
     "epochs": 20000,
     "learning_rate": 2e-4,
