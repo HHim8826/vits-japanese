@@ -226,6 +226,16 @@ def train_and_evaluate(rank, epoch, hps, nets, optims, schedulers, scaler, loade
         evaluate(hps, net_g, eval_loader, writer_eval)
         utils.save_checkpoint(net_g, optim_g, hps.train.learning_rate, epoch, os.path.join(hps.model_dir, "G_{}.pth".format(global_step)))
         utils.save_checkpoint(net_d, optim_d, hps.train.learning_rate, epoch, os.path.join(hps.model_dir, "D_{}.pth".format(global_step)))
+      elif global_step % hps.train.colab_save_interval == 0:
+        utils.save_checkpoint(net_g, optim_g, hps.train.learning_rate, epoch, os.path.join(hps.model_dir, "G_{}.pth".format(global_step)))
+        utils.save_checkpoint(net_d, optim_d, hps.train.learning_rate, epoch, os.path.join(hps.model_dir, "D_{}.pth".format(global_step)))
+        try:
+          os.mkdir(f'/content/gdrive/MyDrive/model/{hps.model_dir.split("/")[-1]}/')
+          os.system(f'cp {hps.model_dir}/G_{global_step}.pth /content/gdrive/MyDrive/model/{hps.model_dir.split("/")[-1]}/')
+          os.system(f'cp {hps.model_dir}/D_{global_step}.pth /content/gdrive/MyDrive/model/{hps.model_dir.split("/")[-1]}/')
+        except:
+          os.system(f'cp {hps.model_dir}/G_{global_step}.pth /content/gdrive/MyDrive/model/{hps.model_dir.split("/")[-1]}/')
+          os.system(f'cp {hps.model_dir}/D_{global_step}.pth /content/gdrive/MyDrive/model/{hps.model_dir.split("/")[-1]}/')
     global_step += 1
   
   if rank == 0:
