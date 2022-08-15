@@ -1,0 +1,150 @@
+lycoris/lycoris_1.wav|0|今日も天気で 私も元気
+lycoris/lycoris_2.wav|0|ありがたい～
+lycoris/lycoris_3.wav|0|おっはよ 先生
+lycoris/lycoris_4.wav|0|ええ～？
+lycoris/lycoris_5.wav|0|まだ約束よりだいぶ早いんですけど
+lycoris/lycoris_6.wav|0|もうちょっとでコーヒー落ちるとこだったのに～
+lycoris/lycoris_7.wav|0|大きな町が動き出す前の静けさが好き
+lycoris/lycoris_8.wav|0|平和で 安全 きれいな東京
+lycoris/lycoris_9.wav|0|日本人は規範意識が高くて
+lycoris/lycoris_10.wav|0|優しくて温厚
+lycoris/lycoris_11.wav|0|法治国家 日本
+lycoris/lycoris_12.wav|0|首都 東京には危険などない
+lycoris/lycoris_13.wav|0|社会を乱す者の存在を許してはならない
+lycoris/lycoris_14.wav|0|存在していたことも許さない
+lycoris/lycoris_15.wav|0|消して 消して 消して
+lycoris/lycoris_16.wav|0|きれいにする
+lycoris/lycoris_17.wav|0|危険は もともと なかった
+lycoris/lycoris_18.wav|0|平和は私たち日本人の気質によって成り立ってるんだ
+lycoris/lycoris_19.wav|0|そう思えることが一番の幸せ
+lycoris/lycoris_20.wav|0|それを作るのが私たちリコリスの役目
+lycoris/lycoris_21.wav|0|なんだってさ
+lycoris/lycoris_22.wav|1|ふっ
+lycoris/lycoris_23.wav|0|先生 何階だって？
+lycoris/lycoris_24.wav|0|６階～？
+lycoris/lycoris_25.wav|0|おっ ほほほほ～！
+lycoris/lycoris_26.wav|0|んっ
+lycoris/lycoris_27.wav|0|りょうか～い 先生
+lycoris/lycoris_28.wav|1|転属ですか？
+lycoris/lycoris_29.wav|1|あの…
+lycoris/lycoris_30.wav|1|本日 配属になりました井ノ上たきなです
+lycoris/lycoris_31.wav|1|クビじゃないです
+lycoris/lycoris_32.wav|1|あなたから学べ との命令です千束さん
+lycoris/lycoris_33.wav|1|転属は本意ではありませんが
+lycoris/lycoris_34.wav|1|東京で一番のリコリスから学べる機会が得られて光栄です
+lycoris/lycoris_35.wav|1|この現場で自分を高めて
+lycoris/lycoris_36.wav|1|本部への復帰を果たしたいと思っています
+lycoris/lycoris_37.wav|1|あ…
+lycoris/lycoris_38.wav|1|ハッ
+lycoris/lycoris_39.wav|1|井ノ上たきなです
+lycoris/lycoris_40.wav|1|元？
+lycoris/lycoris_41.wav|0|オオカミみたい！
+lycoris/lycoris_42.wav|0|先生～ 大変
+lycoris/lycoris_43.wav|0|食べモグのクチコミで この店
+lycoris/lycoris_44.wav|0|ホールスタッフがかわいい”って
+lycoris/lycoris_45.wav|0|これ 私のことだよね？
+lycoris/lycoris_46.wav|0|冗談は顔だけにしろよ 酔っ払い
+lycoris/lycoris_47.wav|0|ん？　あら リコリス？
+lycoris/lycoris_48.wav|0|ってか どうしたの？　その顔
+lycoris/lycoris_49.wav|0|えっ！
+lycoris/lycoris_50.wav|1|この人
+lycoris/lycoris_51.wav|0|この子が～！
+lycoris/lycoris_52.wav|0|よろしく 相棒！　千束で～す
+lycoris/lycoris_53.wav|1|井ノ上たきなです よろし…
+lycoris/lycoris_54.wav|0|たきな！　はじめましてよね？</c>
+lycoris/lycoris_55.wav|1|ああ はい
+lycoris/lycoris_56.wav|1|去年 京都から転属になったばかりなので
+lycoris/lycoris_57.wav|0|おお～ 転属組！優秀なのね　年は？
+lycoris/lycoris_58.wav|1|16です
+lycoris/lycoris_59.wav|0|私が１つ おねえちゃんか
+lycoris/lycoris_60.wav|0|けど“さん”は いらないからね
+lycoris/lycoris_61.wav|0|“ち さ と”でオーケー
+lycoris/lycoris_62.wav|1|はあ…
+lycoris/lycoris_63.wav|0|この前のアレ すごかったねえ
+lycoris/lycoris_64.wav|0|その顔は名誉の負傷？
+lycoris/lycoris_65.wav|1|いえ
+lycoris/lycoris_66.wav|0|ん？
+lycoris/lycoris_67.wav|0|殴らなくたって いいでしょうよ！
+lycoris/lycoris_68.wav|0|司令 司令ってちょっとは自分で考えなさいよ！
+lycoris/lycoris_69.wav|0|うっせえ アホ！
+lycoris/lycoris_70.wav|0|よし！　早速 仕事に行こう たきな
+lycoris/lycoris_71.wav|1|はい
+lycoris/lycoris_72.wav|0|あっ 先生のコーヒー飲んでからでいいよ
+lycoris/lycoris_73.wav|0|すごく おいしいから
+lycoris/lycoris_74.wav|0|私 着替えてくるね　ごゆっくり～
+lycoris/lycoris_75.wav|0|ああ たきな！
+lycoris/lycoris_76.wav|1|はい！</c>
+lycoris/lycoris_77.wav|0|リコリコへ
+lycoris/lycoris_78.wav|0|ようこそ～　ウヒヒッ
+lycoris/lycoris_79.wav|1|ん～？
+lycoris/lycoris_80.wav|1|あっ はい
+lycoris/lycoris_81.wav|0|悪いヤツじゃないんだけどね
+lycoris/lycoris_82.wav|0|ああいう性格だから
+lycoris/lycoris_83.wav|0|ああ フキのこと
+lycoris/lycoris_84.wav|1|親しいのですか？
+lycoris/lycoris_85.wav|0|うん 昔 リコリス棟で同室だったの
+lycoris/lycoris_86.wav|1|昨日まで 私も そうでした
+lycoris/lycoris_87.wav|0|マジで？　それは ご愁傷さま
+lycoris/lycoris_88.wav|0|歯ぎしり すごいでしょ？夢でもカリカリしてるのよ
+lycoris/lycoris_89.wav|1|千束さんは どうしてＤＡにいないんですか？
+lycoris/lycoris_90.wav|0|ん？　えっ ああ～
+lycoris/lycoris_91.wav|0|問題児だからだよ
+lycoris/lycoris_92.wav|1|優秀なリコリスだと伺ってます
+lycoris/lycoris_93.wav|0|楠木さんが そう言ってた？
+lycoris/lycoris_94.wav|1|あれも千束さんの仕事だと
+lycoris/lycoris_95.wav|0|ああ～
+lycoris/lycoris_96.wav|0|いや 壊したのは私じゃないよ
+lycoris/lycoris_97.wav|1|旧電波塔を 独りでテロリストから守ったリコリスは
+lycoris/lycoris_98.wav|1|地方でも有名ですよ
+lycoris/lycoris_99.wav|0|あっ   そう？
+lycoris/lycoris_100.wav|0|でも 結局 壊れちゃってるしね
+lycoris/lycoris_101.wav|0|優秀なリコリスはＤＡにいる人だと思います
+lycoris/lycoris_102.wav|1|私も そのはずでした
+lycoris/lycoris_103.wav|0|ああ 例の銃取引？
+lycoris/lycoris_104.wav|0|なんだかんだで商品は押さえられたんでしょ？
+lycoris/lycoris_105.wav|1|いえ なかったんです
+lycoris/lycoris_106.wav|0|え？
+lycoris/lycoris_107.wav|0|銃取引自体がなかったって線も あるんじゃない？
+lycoris/lycoris_108.wav|1|そうでしょうか
+lycoris/lycoris_109.wav|0|ん？
+lycoris/lycoris_110.wav|0|新しいお友達のたきなおねえちゃんだよ
+lycoris/lycoris_111.wav|0|出身校が同じなので私ができる言葉はできます
+lycoris/lycoris_112.wav|0|ああ ロシア語は？
+lycoris/lycoris_113.wav|0|はい これ　ご注文の
+lycoris/lycoris_114.wav|0|そうでしょ？　上物ですよ
+lycoris/lycoris_115.wav|0|挽きたてだって 先生が
+lycoris/lycoris_116.wav|0|たきなさん
+lycoris/lycoris_117.wav|0|今日から うちで働く私の相棒よろしくね
+lycoris/lycoris_118.wav|0|ヤバい粉だと思った？思ったでしょ～
+lycoris/lycoris_119.wav|1|ええ
+lycoris/lycoris_120.wav|0|やった！
+lycoris/lycoris_121.wav|1|撃ち殺すところでしたよ
+lycoris/lycoris_122.wav|0|こっ…
+lycoris/lycoris_123.wav|0|ジョ～ダンだよお！
+lycoris/lycoris_124.wav|0|ただの お店のお得意さんだから
+lycoris/lycoris_125.wav|0|は～い 次は一転 警察署に行きます
+lycoris/lycoris_126.wav|0|おっ… でも まだちょっと早いな
+lycoris/lycoris_127.wav|1|あの…
+lycoris/lycoris_128.wav|1|この部署は 一体何をするところなのでしょうか？
+lycoris/lycoris_129.wav|0|おう？
+lycoris/lycoris_130.wav|0|ごめん先生から聞いてると思ってたよ
+lycoris/lycoris_131.wav|0|何するところか…
+lycoris/lycoris_132.wav|0|改めて聞かれると考えちゃうな
+lycoris/lycoris_133.wav|1|保育園 日本語学校 組事務所
+lycoris/lycoris_134.wav|1|共通点が見いだせません
+lycoris/lycoris_135.wav|0|困ってる人を助ける仕事だよ
+lycoris/lycoris_136.wav|1|個人のためのリコリス…
+lycoris/lycoris_137.wav|0|そそっ
+lycoris/lycoris_138.wav|0|コーヒーの配達も 外国語の先生も保育園のお手伝いも
+lycoris/lycoris_139.wav|0|喜んでもらえるよ
+lycoris/lycoris_140.wav|1|私たちリコリスは
+lycoris/lycoris_141.wav|1|国を守る公的機密組織のエージェントですよ？
+lycoris/lycoris_142.wav|0|おお～ そう言うと映画みたいで なんか かっこいい
+lycoris/lycoris_143.wav|0|け～ど
+lycoris/lycoris_144.wav|0|凶悪犯を処刑して回ってる殺し屋って言われたりも… ねえ？
+lycoris/lycoris_145.wav|1|ああいうことが起きる時代ですから
+lycoris/lycoris_146.wav|1|私たちが必要です
+lycoris/lycoris_147.wav|0|そうね～ そうなんかもねえ～
+lycoris/lycoris_148.wav|1|しかし新しい電波塔が完成間近なのに
+lycoris/lycoris_149.wav|1|なぜ残してるんですかね
+lycoris/lycoris_150.wav|0|壊れて出来た意味も
