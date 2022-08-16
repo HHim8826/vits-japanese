@@ -1233,3 +1233,141 @@ lycoris/lycoris_1232.wav|1|ジャンケン！
 lycoris/lycoris_1233.wav|0|うわあ ええ～！
 lycoris/lycoris_1234.wav|1|ぽん！
 lycoris/lycoris_1235.wav|0|うわあ～っ！
+lycoris/lycoris_1236.wav|0|せ～の！
+lycoris/lycoris_1237.wav|1|うう…
+lycoris/lycoris_1238.wav|0|ブヘッ
+lycoris/lycoris_1239.wav|0|フハハハッ！　それは ねえわ
+lycoris/lycoris_1240.wav|1|漫画じゃないですか！
+lycoris/lycoris_1241.wav|0|だって それ似てないし
+lycoris/lycoris_1242.wav|1|似てない
+lycoris/lycoris_1243.wav|1|待ってください 司令！私のは似てます
+lycoris/lycoris_1244.wav|0|なら フキが描けよ！
+lycoris/lycoris_1245.wav|0|あ～ そうか
+lycoris/lycoris_1246.wav|0|ありがとうございました
+lycoris/lycoris_1247.wav|0|明日の昼休憩に阿部さんも来ますから
+lycoris/lycoris_1248.wav|0|おっ
+lycoris/lycoris_1249.wav|0|また明日～
+lycoris/lycoris_1250.wav|0|絶対 終わらないよ ハハッ
+lycoris/lycoris_1251.wav|1|私は いいです
+lycoris/lycoris_1252.wav|0|この前 ボロ負けしたからだろ
+lycoris/lycoris_1253.wav|1|仕事です！日本語学校の
+lycoris/lycoris_1254.wav|0|あ～ 逃げたな～
+lycoris/lycoris_1255.wav|0|ハハッじゃあ 休憩入りま～す
+lycoris/lycoris_1256.wav|0|分かってるって
+lycoris/lycoris_1257.wav|0|ん？
+lycoris/lycoris_1258.wav|0|は～い
+lycoris/lycoris_1259.wav|0|ああ プレートねお手洗い済んだら 出しとく
+lycoris/lycoris_1260.wav|1|どうかしましたか？
+lycoris/lycoris_1261.wav|1|なんか 今日は変ですよ
+lycoris/lycoris_1262.wav|0|ん～ 先生は？
+lycoris/lycoris_1263.wav|0|皆さん
+lycoris/lycoris_1264.wav|0|リコリコ閉店のピンチです
+lycoris/lycoris_1265.wav|0|だって 見えちゃったんだもん
+lycoris/lycoris_1266.wav|1|目がいいと余計なもの 見てしまうんですね
+lycoris/lycoris_1267.wav|1|そうですよ
+lycoris/lycoris_1268.wav|1|司令とは限らないでしょう？
+lycoris/lycoris_1269.wav|0|い～や
+lycoris/lycoris_1270.wav|0|先生を たらし込んで私をＤＡに連れ戻す計画じゃわ
+lycoris/lycoris_1271.wav|1|自慢ですか？結構ですねえ 必要とされてて
+lycoris/lycoris_1272.wav|0|ああ ああ～そうじゃないよ たきな～
+lycoris/lycoris_1273.wav|1|じゃ 私が戻りますよ
+lycoris/lycoris_1274.wav|0|み… みんなだってお店なくなったら困るでしょ？
+lycoris/lycoris_1275.wav|1|まあ 私は養成所戻しですし
+lycoris/lycoris_1276.wav|0|そうでしょう？
+lycoris/lycoris_1277.wav|1|入れるんですか？
+lycoris/lycoris_1278.wav|0|そこはコンピューターの人の出番でしょ
+lycoris/lycoris_1279.wav|0|おお～
+lycoris/lycoris_1280.wav|1|店長と司令は愛人関係ということですか？
+lycoris/lycoris_1281.wav|0|愛人って…
+lycoris/lycoris_1282.wav|1|え？
+lycoris/lycoris_1283.wav|0|お～！　フキ いらっしゃ～い
+lycoris/lycoris_1284.wav|0|えっ？　あっ あ… うんうんうちのコンピューターの人
+lycoris/lycoris_1285.wav|0|あ あ～そんな大きな声で叫ばなくたって
+lycoris/lycoris_1286.wav|0|んっ？
+lycoris/lycoris_1287.wav|0|こいつ こいつ！
+lycoris/lycoris_1288.wav|0|ねえ？　たきな
+lycoris/lycoris_1289.wav|1|ですね
+lycoris/lycoris_1290.wav|0|ほら これ 髪型 私のじゃない？
+lycoris/lycoris_1291.wav|1|おうどんでも湯がきます？
+lycoris/lycoris_1292.wav|0|食べま～す！
+lycoris/lycoris_1293.wav|0|いや うどんは どこかな～と
+lycoris/lycoris_1294.wav|1|ここにうどんは ありませんでした～
+lycoris/lycoris_1295.wav|0|あっ ないか～
+lycoris/lycoris_1296.wav|1|はい
+lycoris/lycoris_1297.wav|0|はいは～い
+lycoris/lycoris_1298.wav|1|それ 今朝もテレビで…なんか 金メダル取ってました
+lycoris/lycoris_1299.wav|0|あっ そう　私にもそういう才能があっちゃうかな？
+lycoris/lycoris_1300.wav|1|弾丸よけるとか 誰にでもできることじゃないですけど
+lycoris/lycoris_1301.wav|0|フフッ ありゃ 勘だよ
+lycoris/lycoris_1302.wav|0|弾より早く動けたらメダル取れるんだけど
+lycoris/lycoris_1303.wav|0|なんちゅうこと言うんだ 貴様
+lycoris/lycoris_1304.wav|0|まっ 金メダルとはいかなくても誰かの役には立てるでしょう
+lycoris/lycoris_1305.wav|0|ＤＡに戻されてる場合じゃないのよ
+lycoris/lycoris_1306.wav|0|ヤベえな この雰囲気
+lycoris/lycoris_1307.wav|1|ここですかね？
+lycoris/lycoris_1308.wav|0|うわっ スゲ～！
+lycoris/lycoris_1309.wav|1|通りましたね
+lycoris/lycoris_1310.wav|0|さすが ウォールナット
+lycoris/lycoris_1311.wav|0|ミッション スタート
+lycoris/lycoris_1312.wav|0|山葵のりこ
+lycoris/lycoris_1313.wav|1|かばやきたろう
+lycoris/lycoris_1314.wav|1|店長 来ましたよ
+lycoris/lycoris_1315.wav|0|うわあ 先生なんか めっちゃ決めてんだけど
+lycoris/lycoris_1316.wav|0|女性だし
+lycoris/lycoris_1317.wav|1|えっ？
+lycoris/lycoris_1318.wav|0|来た！
+lycoris/lycoris_1319.wav|1|誰か来ましたね
+lycoris/lycoris_1320.wav|0|え？　ヨシさん？
+lycoris/lycoris_1321.wav|1|えっ？
+lycoris/lycoris_1322.wav|0|私としたことが…
+lycoris/lycoris_1323.wav|0|行こう　邪魔しちゃ悪い
+lycoris/lycoris_1324.wav|1|あ… はい
+lycoris/lycoris_1325.wav|0|愛の形は様々なんだよ たきな
+lycoris/lycoris_1326.wav|0|こっち こっち
+lycoris/lycoris_1327.wav|1|お店の常連ですし 挨拶しても
+lycoris/lycoris_1328.wav|0|いいから　あとで教えたげるから
+lycoris/lycoris_1329.wav|1|んっ… ちょっと 千束？
+lycoris/lycoris_1330.wav|0|え… ヨシさんなの？
+lycoris/lycoris_1331.wav|1|出ないんですか？
+lycoris/lycoris_1332.wav|0|ヨシさんだよ！
+lycoris/lycoris_1333.wav|1|ちょ… ちょっと 千束
+lycoris/lycoris_1334.wav|0|ヨシさんなの？
+lycoris/lycoris_1335.wav|0|ごめんなさい
+lycoris/lycoris_1336.wav|0|先生のメールをうっかり見ちゃって
+lycoris/lycoris_1337.wav|1|司令と会うのかと
+lycoris/lycoris_1338.wav|0|でも 今の話
+lycoris/lycoris_1339.wav|0|ちょっとだけ ちょっとだけヨシさんと話をさせて
+lycoris/lycoris_1340.wav|1|あ…
+lycoris/lycoris_1341.wav|1|私 先 出てますね
+lycoris/lycoris_1342.wav|0|うん ごめん
+lycoris/lycoris_1343.wav|0|まさか ヨシさんだったなんて
+lycoris/lycoris_1344.wav|0|あっ すみません吉松さんのほうがいいか
+lycoris/lycoris_1345.wav|0|ありがとうございました
+lycoris/lycoris_1346.wav|0|あなたを ずっと探してて
+lycoris/lycoris_1347.wav|0|手術のあとお礼を言えてなかったから
+lycoris/lycoris_1348.wav|0|え？
+lycoris/lycoris_1349.wav|0|そうなんだ　そっか…
+lycoris/lycoris_1350.wav|0|私も頂いた時間でヨシさんみたいに誰か
+lycoris/lycoris_1351.wav|0|ちょっと ２人とも！
+lycoris/lycoris_1352.wav|0|あの ヨシさん
+lycoris/lycoris_1353.wav|0|また お店で 待ってますから
+lycoris/lycoris_1354.wav|0|待ってます…
+lycoris/lycoris_1355.wav|1|あの！
+lycoris/lycoris_1356.wav|1|先ほどは お邪魔してしまって
+lycoris/lycoris_1357.wav|1|でも 千束 喜んでました
+lycoris/lycoris_1358.wav|1|また お店で お待ちしています
+lycoris/lycoris_1359.wav|1|千束は ずっと あな
+lycoris/lycoris_1360.wav|0|なんで黙ってたの？
+lycoris/lycoris_1361.wav|0|約束を守ったんだ　フフッ
+lycoris/lycoris_1362.wav|0|そのほうが先生らしい
+lycoris/lycoris_1363.wav|0|やるな 千束を欺くとは
+lycoris/lycoris_1364.wav|0|ヒヒッいいって　気にすんなよ～
+lycoris/lycoris_1365.wav|1|今日は まだ
+lycoris/lycoris_1366.wav|1|どうぞ
+lycoris/lycoris_1367.wav|1|べきですね
+lycoris/lycoris_1368.wav|1|そうですね
+lycoris/lycoris_1369.wav|1|あっ
+lycoris/lycoris_1370.wav|0|千束が来ました～！
+lycoris/lycoris_1371.wav|1|営業 始まってるんですから早く着替えてきてください
+lycoris/lycoris_1372.wav|0|よし
+lycoris/lycoris_1373.wav|0|は～い 先生 今 行きま～す！
